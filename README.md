@@ -107,6 +107,4 @@ I provide indicative readings, some of which I will cover during class, but I do
 
 ## Course Materials
 
-All course materials will be available via the GitHub repository: 
-
-<>
+All course materials will be available via the GitHub repository: <https://github.com/baris-ari/css>
