@@ -99,7 +99,3 @@ I provide indicative readings, some of which I will cover during class, but I do
 [4] Schelling, T. C. (1971). Dynamic models of segregation. *Journal of Mathematical Sociology*, 1(2), 143–186. <https://doi.org/10.1080/0022250X.1971.9989794>
 
 [5] Axelrod, R. (1997). The dissemination of culture: A model with local convergence and global polarization. *Journal of Conflict Resolution*, 41(2), 203–226. <https://www.jstor.org/stable/174371>
-
-## Course Materials
-
-All course materials will be available via the GitHub repository: <https://github.com/baris-ari/css>
