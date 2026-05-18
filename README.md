@@ -9,10 +9,6 @@ This training event will take place online via Microsoft Teams.  **Microsoft Tea
 
 <https://teams.microsoft.com/meet/397651353392793?p=jN7xzG2tjLzseh8AMQ>
 
-**Meeting ID:** 397 651 353 392 793  
-
-**Passcode:** Mj6MP9P2
-
 All course materials will be available via the **GitHub repository:**
 
 <https://github.com/baris-ari/css>
@@ -47,7 +43,7 @@ This training event does not aim to teach coding syntax or to systematically imp
 
 I provide indicative readings, some of which I will cover during class, but I do not expect you to read them in advance. The readings are primarily intended as signposting guidance and as starting points for participants wishing to explore particular topics in greater depth.
 
-### Day 1: Introduction and Foundations of CSS {.unnumbered}
+### Day 1: Introduction and Foundations of CSS
 
 **1. Introduction and Preliminaries**
 
@@ -67,7 +63,7 @@ I provide indicative readings, some of which I will cover during class, but I do
    
    - [2] Mitchell, M. (2009). *Complexity: A Guided Tour*. Ch. 1-4.
 
-### Day 2: Agent-Based Modelling {.unnumbered}
+### Day 2: Agent-Based Modelling
 
 **1. Schelling's Model Revisited: Simplicity and Complexity**
 
